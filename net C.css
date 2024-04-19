@@ -1,0 +1,70 @@
+#N{
+    color: red;
+    font-size: xx-large;
+}
+
+body {
+    background-image: url("net.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} 
+
+#B{
+    
+    background-color: black;
+    padding-left: 5cm;
+    opacity: 0.8;
+    height: 600px;
+    width: 400px;
+    margin-left: 400px; 
+    padding-right:150px ;
+}
+
+#H{
+    color: whitesmoke;
+    font-size: x-large;
+    padding-bottom: 5%;
+    padding-left: 150px;
+
+}
+.M{
+    margin: 50px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    margin: 10%,15%;
+    height: 50px;
+    width: 300px;
+
+}
+
+
+
+.button {
+    width: 250px;
+    background-color: #aa0404;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 80px; 
+  }
+
+  #L{
+    float: right;
+    padding-top: 5%;
+
+  }
+
+  p{
+    color: white;
+    float: left;
+    padding-top: 10%;
+  }
+  h5{
+    color: white;
+    font-size: large;
+    padding-left: 10%;
+  }
