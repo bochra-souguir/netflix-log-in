@@ -1,1 +1,2 @@
-# netflix-log-in
+netflix login page
+This project is a beginner-friendly attempt to recreate the Netflix login page using HTML and CSS. It's designed to help beginners learn basic web development concepts. The focus is on creating a non-responsive version of the page to keep things simple. You can clone the repository, open the codenetf.html file in your browser, and explore the HTML and CSS code to understand how the page is structured and styled. Contributions and feedback are welcome to improve this project for learning purposes.
